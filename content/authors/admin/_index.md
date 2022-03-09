@@ -12,32 +12,26 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/JimSulit_
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jimsulit
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+    link: https://www.linkedin.com/jimsulit
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Information Systems
+      institution: University of the Philippines
+      year: 2022
+    - course: Multimedia Studies (Undergrad units in Industrial Engineering)
+      institution: University of the Philippines
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true

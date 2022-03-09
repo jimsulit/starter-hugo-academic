@@ -1,7 +1,7 @@
 ---
 title: Jimson Sulit
 role: Professor of Artificial Intelligence
-avatar_filename: screen-shot-2022-03-09-at-11.23.35-pm.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

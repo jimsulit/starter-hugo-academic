@@ -1,13 +1,12 @@
 ---
-title: Jimson Sulit
+title: Jim Sulit
 role: ""
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I am a data science consultant and grad student currently working on use cases for product analytics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Product Analytics
+  - Cloud Computing
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,7 +21,7 @@ social:
     link: https://github.com/jimsulit
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/jimsulit
+    link: https://www.linkedin.com/in/jimsulit
 organizations: []
 education:
   courses:
@@ -37,8 +36,6 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jim Sulit is currently a data science consultant at an EdTech startup and a grad student in information systems. His interests include machine learning, product analytics, and cloud computing. In his free time, he enjoys playing tennis and hunting for the next best chinese restaurant.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 👋 Hi, I'm Jim Sulit.
+# title: Jim Sulit
 
 # Is this the primary user of the site?
 superuser: true

@@ -1,5 +1,5 @@
 ---
-title: 👋 Hi, I'm Jim.
+title: Jim Sulit
 role: ""
 avatar_filename: avatar.png
 bio: I am a data science consultant and grad student currently working on product analytics use cases.

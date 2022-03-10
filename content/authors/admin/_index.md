@@ -36,19 +36,19 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/JimSulit_
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jimsulit
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jimsulit
+# social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/JimSulit_
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/jimsulit
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/jimsulit
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -63,6 +63,20 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/JimSulit_
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jimsulit
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jimsulit
 
 I am a data science consultant at an EdTech startup and a grad student in information systems. I design and build machine learning systems that serve customers. Previously, I worked as a data scientist for IBM, Japan Tobacco International, and Globe Telecom Philippines. In my free time, I enjoy playing tennis and discovering the next must-try cuisine in Madrid.
 

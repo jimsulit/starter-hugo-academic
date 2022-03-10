@@ -2,7 +2,7 @@
 title:
 role: ""
 avatar_filename: avatar.png
-bio: I am a data science consultant and grad student currently working on use cases for product analytics.
+bio: I am a data science consultant and grad student currently working on product analytics use cases.
 interests:
   - Machine Learning
   - Product Analytics
@@ -26,9 +26,9 @@ organizations: []
 education:
   courses:
     - course: MSc in Information Systems
-      institution: University of the Philippines (Graduation date: June 2022)
+      institution: University of the Philippines (graduation date: June 2022)
       year: 2022
-    - course: Multimedia Studies (Undergrad units in Industrial Engineering)
+    - course: Multimedia Studies (undergrad units in Industrial Engineering)
       institution: University of the Philippines
       year: 2014
 email: ""

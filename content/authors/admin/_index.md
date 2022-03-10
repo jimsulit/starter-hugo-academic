@@ -1,5 +1,5 @@
 ---
-title: Jim Sulit
+title:
 role: ""
 avatar_filename: avatar.png
 bio: I am a data science consultant and grad student currently working on use cases for product analytics.
@@ -26,7 +26,7 @@ organizations: []
 education:
   courses:
     - course: MSc in Information Systems
-      institution: University of the Philippines
+      institution: University of the Philippines (Graduation date: June 2022)
       year: 2022
     - course: Multimedia Studies (Undergrad units in Industrial Engineering)
       institution: University of the Philippines

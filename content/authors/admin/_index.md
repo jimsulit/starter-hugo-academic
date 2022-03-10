@@ -64,6 +64,6 @@ email: ""
 highlight_name: true
 ---
 
-Jim Sulit is currently a data science consultant at an EdTech startup and a grad student in information systems. His interests include machine learning, product analytics, and cloud computing. In his free time, he enjoys playing tennis and hunting for the next best Chinese restaurant.
+I am a data science consultant at an EdTech startup and a grad student in information systems. I design and build machine learning systems that serve customers. Previously, I worked as a data scientist for IBM, Japan Tobacco International, and Globe Telecom Philippines. In my free time, I enjoy playing tennis and looking for the next best Chinese restaurant in Madrid.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

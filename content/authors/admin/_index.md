@@ -1,6 +1,6 @@
 ---
 # Display name
-# title: Jim Sulit
+title: 👋 Hi, I'm Jim Sulit.
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ superuser: true
 #  url: https://www.up.edu.ph/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include music, data science, and productivity.
 
 # Interests to show in About widget
 interests:

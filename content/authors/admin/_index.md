@@ -63,5 +63,3 @@ highlight_name: true
 
 
 I am a data science consultant and a grad student in information systems. I design experiments and build systems that serve customers at scale. Previously, I worked as a data scientist for IBM, Japan Tobacco International, and Globe Telecom Philippines. In my free time, I enjoy playing tennis and discovering the next must-try cuisine in Madrid.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -22,15 +22,12 @@ interests:
 - Product Analytics
 - Cloud Computing
 
-<!-- # Education to show in About widget
+# Education to show in About widget
 education:
   courses:
   - course: MSc in Information Systems
     institution: University of the Philippines
     year: 2022
-  - course: BA in Multimedia Studies with units in industrial engineering
-    institution: University of the Philippines
-    year: 2014 -->
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
